@@ -1,0 +1,16 @@
+{
+  "name": "bootcamp-batch-4-adnin-day-5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app",
+    "fol": "ls",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adnin",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^13.5.2"
+  }
+}
